@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(73, 72, 185);
+}
+span {
+  background-color: darkslategray;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+}
+.div1 {
+  background-color: brown;
+  width: 300px;
+  height: 300px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.div2 {
+  background-color: brown;
+  width: 300px;
+  height: 300px;
+  margin-top: 40px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+}
